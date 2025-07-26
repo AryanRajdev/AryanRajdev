@@ -71,15 +71,15 @@
 
 ### 📊 GitHub Stats
 
-<!-- GitHub Main Stats (full width) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanrajdev&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
-</p>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanrajdev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160"/>
 
-<!-- Top Languages + Streak side by side -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanrajdev&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanrajdev&theme=tokyonight&hide_border=true" width="50%" />
+  <!-- GitHub Stats (Mini Version) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanrajdev&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" height="160"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanrajdev&layout=donut&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 
