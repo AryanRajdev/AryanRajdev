@@ -69,17 +69,13 @@
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
+
+### 📊 GitHub Statistics
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanrajdev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160"/>
-
-  <!-- GitHub Stats (Mini Version) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanrajdev&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" height="160"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanrajdev&layout=donut&theme=tokyonight&hide_border=true" height="160"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanrajdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryanrajdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&rank_icon=github" alt="GitHub Stats" />
 </p>
 
-
+</div>
